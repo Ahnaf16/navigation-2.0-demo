@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>912060212369-qgkn8aphb8v5pfmbb558aeno5aepiigj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.912060212369-qgkn8aphb8v5pfmbb558aeno5aepiigj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>912060212369-94pvccvamsa1rt6idap270bn6iutv1fl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIBHWJhBMT667HwsRoJZTy8EhHZ3Crqqg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>912060212369</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.navigationTesting</string>
+	<key>PROJECT_ID</key>
+	<string>dokan-37bbb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dokan-37bbb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:912060212369:ios:81f2917effd4f40c068b30</string>
+	<key>DATABASE_URL</key>
+	<string>https://dokan-37bbb-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
